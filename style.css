@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+}
+
+#display {
+    width: 240px;
+    height: 45px;
+    font-size: 24px;
+    text-align: right;
+    margin-bottom: 10px;
+}
+
+button {
+    width: 60px;
+    height: 50px;
+    margin: 3px;
+    font-size: 20px;
+    cursor: pointer;
+}
